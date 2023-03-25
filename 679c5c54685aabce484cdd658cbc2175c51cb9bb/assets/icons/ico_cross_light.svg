@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-76.7%" y="-76.7%" width="246.7%" height="246.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24682971 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="S-edit-profile-mobile-4-Copy" transform="translate(-273.000000, -126.000000)" fill="#FFFFFF">
+            <g id="X-close-shadow" filter="url(#filter-1)" transform="translate(280.000000, 133.000000)">
+                <path d="M9.13890789,7.46431579 L14.5819342,2.02128947 C15.0441711,1.55944737 15.0441711,0.809052632 14.5819342,0.346815789 C14.1196974,-0.115815789 13.3693026,-0.115815789 12.9070658,0.346815789 L7.46443421,5.78984211 L2.02140789,0.346815789 C1.55917105,-0.115815789 0.809171053,-0.115815789 0.346934211,0.346815789 C-0.115697368,0.809052632 -0.115697368,1.55944737 0.346934211,2.02128947 L5.78996053,7.46431579 L0.346934211,12.9073421 C-0.115697368,13.3691842 -0.115697368,14.1195789 0.346934211,14.5818158 C0.57825,14.8131316 0.881407895,14.9287895 1.18417105,14.9287895 C1.48732895,14.9287895 1.79048684,14.8131316 2.02140789,14.5818158 L7.46443421,9.13878947 L12.9070658,14.5818158 C13.1383816,14.8131316 13.4415395,14.9287895 13.7443026,14.9287895 C14.0474605,14.9287895 14.3506184,14.8131316 14.5819342,14.5818158 C15.0441711,14.1195789 15.0441711,13.3691842 14.5819342,12.9073421 L9.13890789,7.46431579 Z" id="icon-close"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,356 @@
+Uri: https://badi.com/
+File Name: C:\Downloaded Web Sites\badi.com\index.htm
+Content Type: text/html
+
+Uri: https://badi.com/manifest.json
+File Name: C:\Downloaded Web Sites\badi.com\manifest-1.json
+Content Type: application/json
+
+Uri: https://cdn.iubenda.com/cs/iubenda_cs.js
+File Name: C:\Downloaded Web Sites\badi.com\cs\iubenda_cs-1.js
+Content Type: application/javascript
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/app.js
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\app-1.js
+Content Type: text/javascript
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/eot/BwBadi-Bold.eot
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\eot\BwBadi-Bold-2.eot
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/eot/BwBadi-Bold.eot?
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\eot\BwBadi-Bold-3.eot
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/eot/BwBadi-Medium.eot
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\eot\BwBadi-Medium-2.eot
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/eot/BwBadi-Medium.eot?
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\eot\BwBadi-Medium-3.eot
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/eot/BwBadi-Regular.eot
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\eot\BwBadi-Regular-2.eot
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/eot/BwBadi-Regular.eot?
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\eot\BwBadi-Regular-3.eot
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/otf/BwBadi-Bold.otf
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\otf\BwBadi-Bold-1.otf
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/otf/BwBadi-Medium.otf
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\otf\BwBadi-Medium-1.otf
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/otf/BwBadi-Regular.otf
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\otf\BwBadi-Regular-1.otf
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/ttf/BwBadi-Bold.ttf
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\ttf\BwBadi-Bold-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/ttf/BwBadi-Medium.ttf
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\ttf\BwBadi-Medium-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/ttf/BwBadi-Regular.ttf
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\ttf\BwBadi-Regular-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/woff/BwBadi-Bold.woff
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\woff\BwBadi-Bold-1.woff
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/woff/BwBadi-Medium.woff
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\woff\BwBadi-Medium-1.woff
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/woff/BwBadi-Regular.woff
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\woff\BwBadi-Regular-1.woff
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/woff2/BwBadi-Bold.woff2
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\woff2\BwBadi-Bold-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/woff2/BwBadi-Medium.woff2
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\woff2\BwBadi-Medium-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/fonts/modelica/woff2/BwBadi-Regular.woff2
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\fonts\modelica\woff2\BwBadi-Regular-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/active-left.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\active-left-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/active-right.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\active-right-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/arrow-left.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\arrow-left-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/arrow-right.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\arrow-right-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/arrow_next_dark.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\arrow_next_dark-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/arrow_prev_dark.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\arrow_prev_dark-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/badge.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\badge-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/badi_favicon.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\badi_favicon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/camera.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\camera-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/copy-link.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\copy-link-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/facebook.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\facebook-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/form-check.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\form-check-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/icon-check.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\icon-check-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/icon-error-text.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\icon-error-text-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/icon_photo_upload.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\icon_photo_upload-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_calendar.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_calendar-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_check_gray.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_check_gray-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_check_white.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_check_white-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_close.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_close-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_cross_big_light.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_cross_big_light-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_cross_gray.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_cross_gray-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_cross_light.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_cross_light-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_cross_primary.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_cross_primary-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_cross_shadowprimary.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_cross_shadowprimary-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_cross_shadowwhite.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_cross_shadowwhite-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_cross_white.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_cross_white-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_down_black.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_down_black-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_down_gray.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_down_gray-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_down_small_gray.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_down_small_gray-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_exclamation.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_exclamation-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_favorite.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_favorite-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_like.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_like-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_load.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_load-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_load_green.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_load_green-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_load_primary.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_load_primary-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_next.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_next-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_next_light.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_next_light-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_no_photo.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_no_photo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_prev_light.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_prev_light-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_room.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_room-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_search.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_search-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_send_primary.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_send_primary-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_send_primary_hover.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_send_primary_hover-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_star.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_star-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_wait_blue.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_wait_blue-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/ico_wait_white.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\ico_wait_white-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/map_options.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\map_options-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/messenger.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\messenger-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/photo-add.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\photo-add-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/set_menu.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\set_menu-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/soc_twitter.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\soc_twitter-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/star.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\star-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/stars.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\stars-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/icons/whatsapp.png
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\icons\whatsapp-1.png
+Content Type: image/png
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/bg_city.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\bg_city-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/booking-help.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\booking-help-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/curve.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\curve-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/listing_empty.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\listing_empty-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/no_photo.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\no_photo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/rentedto-placeholder.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\rentedto-placeholder-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/trusted-flag.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\trusted-flag-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/verify.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\verify-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/assets/images/verify_empty.svg
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\assets\images\verify_empty-1.svg
+Content Type: image/svg+xml
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/styles.css
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\styles-1.css
+Content Type: text/css
+
+Uri: https://d1v3slut4s2mfy.cloudfront.net/679c5c54685aabce484cdd658cbc2175c51cb9bb/vendors-app.js
+File Name: C:\Downloaded Web Sites\badi.com\679c5c54685aabce484cdd658cbc2175c51cb9bb\vendors-app-1.js
+Content Type: text/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyALemx_P_Rc3ogez9vWDGYaRblV5vxlN2s&libraries=geometry,places&language=en-GB
+File Name: C:\Downloaded Web Sites\badi.com\maps\api\js-1
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-EPMY5WMJ09
+File Name: C:\Downloaded Web Sites\badi.com\gtag\js-1
+Content Type: application/javascript
+

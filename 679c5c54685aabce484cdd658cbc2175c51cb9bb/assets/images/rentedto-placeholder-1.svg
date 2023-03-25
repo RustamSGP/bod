@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="280" viewBox="0 0 240 280">
+    <defs>
+        <rect id="a" width="229.684" height="280" y="1" rx="3"/>
+        <ellipse id="c" cx="27.37" cy="27.294" rx="27.37" ry="27.294"/>
+        <ellipse id="d" cx="27.37" cy="27.294" rx="27.37" ry="27.294"/>
+        <ellipse id="e" cx="27.37" cy="27.294" rx="27.37" ry="27.294"/>
+        <ellipse id="f" cx="27.37" cy="27.294" rx="27.37" ry="27.294"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 -1)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <g mask="url(#b)">
+            <use fill="#F3F3F3" transform="translate(44 14)" xlink:href="#c"/>
+        </g>
+        <g mask="url(#b)">
+            <use fill="#F3F3F3" transform="translate(44 93)" xlink:href="#d"/>
+        </g>
+        <g mask="url(#b)">
+            <use fill="#F3F3F3" transform="translate(44 172)" xlink:href="#e"/>
+        </g>
+        <g mask="url(#b)">
+            <use fill="#F3F3F3" transform="translate(44 251)" xlink:href="#f"/>
+        </g>
+        <path fill="#F3F3F3" d="M114 40h78v12h-78zM114 117h72v12h-72zM114 193h96v12h-96zM114 271h78v12h-78z" mask="url(#b)"/>
+    </g>
+</svg>
